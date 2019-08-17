@@ -29,7 +29,7 @@ $ git log
 		
 			added a project
 $ git remote -v
-$ git remote add origin https://github.com/sksumanta/LocalNRemote.git
+$ git remote add origin https://github.com/XXXXXXXXXX/XXXXXXXX.git
 $ git push -u origin master
 
 		Enumerating objects: 4, done.
